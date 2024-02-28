@@ -1,0 +1,1 @@
+# fintech_QA_Manual_test_task
